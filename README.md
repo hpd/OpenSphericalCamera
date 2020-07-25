@@ -7,6 +7,7 @@ Supported Cameras
 -
 
 - [Ricoh Theta S](https://developers.theta360.com/en/)
+- [Samsung Gear 360 (2017)](https://www.samsung.com/global/galaxy/gear-360/)
 - Untested OSC cameras
 	- [BublCam](http://www.bublcam.com/)
 	- [Giroptic](http://us.360.tv/en/)
@@ -111,6 +112,8 @@ References
 
 - [Alternate OSC Python library](https://github.com/florianl/pyOSCapi)
 
+- [Samsung Gear 360 (2016) OSC Python library](https://github.com/baardove/osc)
+
 Thanks
 ------
 Many thanks to Craig Oda, the author and maintainer of [Theta S API Tests](https://github.com/codetricity/theta-s-api-tests) repo.
@@ -124,7 +127,7 @@ The original author of this library is:
 Testing
 -
 
-This library was tested with a Ricoh Theta S using Python 2.7 on OSX Yosemite.
+This library was tested with a Ricoh Theta S using Python 2.7 on OSX Yosemite, and a Samsung Gear 360 (2017) on macOS High Sierra.
 
 License
 -
